@@ -1,2 +1,2 @@
 # ros2demo
-some excamples for ROS2 
+some examples for ROS2 
